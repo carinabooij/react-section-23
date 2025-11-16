@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Test 2","image":"https://www.freepik.com/free-photo/new-york-city_26745119.htm#fromView=search&page=1&position=0&uuid=46cd7c77-2bae-4765-8ba5-cf96f59feb43&query=city","date":"2025-11-18","description":"Mothers birthday","id":"e78ec611-186c-4824-b96a-5d652811a379"},{"title":"Test 1","image":"https://t4.ftcdn.net/jpg/09/07/08/39/240_F_907083928_i6GxAIwRA09pz8J6QJelm05j6VrSDWeq.jpg","date":"2025-11-17","description":"Lovely event","id":"c1b204d6-f855-44d0-a6b6-3190e37b0128"}],"users":[{"email":"test@test.com","password":"$2a$12$pC/emLGmhcQ4dJtTsIrtE.qUr2AvvXmRRk3r94jPHqHF07NsTy4h2","id":"93784ec6-a2da-4a64-bed1-64746ab7722f"},{"email":"test1@test.com","password":"$2a$12$J6fbl0sYRi/vh2ksxiz/1.F1/wb5Mv/4nOtmJbJjabcD7Wgkrlcse","id":"decfcbb1-32e7-42fe-9751-49c86bc9bf3d"},{"email":"test3@test.com","password":"$2a$12$wnttkA5O/CVA.aaozTgmfOC0TQOOCEjAgxMTjQNFEdcJTeIRQ0QeK","id":"9085736c-792e-4dc2-8b88-e6240abdb047"}]}
